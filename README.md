@@ -28,7 +28,7 @@
 ```html
 <table style="font-size:13px;color:#fff;"> 
 <tr><td>
-<h3>可更新至00.46.00.17</h3>
+<h3>可更新至00.46.00.19</h3>
 </td></tr>
 <tr><td>
 1、分享功能全新上线，你的摄像头可以分享给亲朋好友了  
@@ -57,7 +57,7 @@
 ```html
 <table style="font-size:13px;color:#fff;"> 
 <tr><td>
-<h3>can be updated to 00.46.00.17</h3>
+<h3>can be updated to 00.46.00.19</h3>
 </td></tr>
 <tr><td>
 1、Add the function of sharing and you can share camera to your friends & relatives;
