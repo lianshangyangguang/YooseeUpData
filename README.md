@@ -1,4 +1,39 @@
+
 # YooseeUpData  
+### 00.46.00.20 中文
+```html
+<table style="font-size:13px;color:#fff;"> 
+<tr><td>
+<h3>可更新至00.46.00.20</h3>
+</td></tr>
+<tr><td>
+1、优化了设备连接机制，提升了部分网络环境下的设备连接速度  
+</td></tr>
+<tr><td>
+2、优化了一些细节操作体验    
+</td></tr>
+<tr><td>
+3、修复了已知错误              
+</td></tr>
+</table>
+```
+### 00.46.00.20 英文 
+```html
+<table style="font-size:13px;color:#fff;"> 
+<tr><td>
+<h3>can be updated to 00.46.00.20</h3>
+</td></tr>
+<tr><td>
+1、Optimize device connection mechanism&improve connection speed in some network environment;
+</td></tr>
+<tr><td>
+2、Optimize some details of operation experience;              
+</td></tr>
+<tr><td>
+3、Fix some known mistakes;      
+</td></tr>
+</table>
+```
 ### 00.46.00.19修改内容 
 【新增】分享功能  
 【新增】上传位置信息给服务器  
