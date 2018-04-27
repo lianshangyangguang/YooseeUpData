@@ -1,4 +1,12 @@
+1.报警消息可以离线推送了；
+2.对热点连接功能做了优化；
+3.多处功能改进；
+4.修复已知问题。
 
+1. Alarm messages can be pushed offline；
+2. Some optimizations for AP connection；
+3. Multiple function optimization；
+4. Fixed some bugs.
 # YooseeUpData  
 ### 00.46.00.20 中文
 ```html
